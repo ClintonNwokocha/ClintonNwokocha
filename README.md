@@ -1,4 +1,3 @@
-![MasterHead](https://cdn.dribbble.com/users/3083633/screenshots/8258363/full-analysis.gif)
 <h1 align="center">Hi 👋, I'm Clinton Nwokocha</h1>
 <h3 align="center">A Data Scientist from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif")
