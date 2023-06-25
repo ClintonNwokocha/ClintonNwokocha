@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonnwokocha&label=Profile%20views&color=0e75b6&style=flat" alt="clintonnwokocha" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/odogwuguyman" target="blank"><img src="https://img.shields.io/twitter/follow/odogwuguyman?logo=twitter&style=for-the-badge" alt="odogwuguyman" /></a> </p>
-
 - 🌱 I’m currently learning **data science, scikit learn, Tensorflow**
 
 - 👯 I am seeking to join and contribute to **open-source initiatives that provide personal and professional development resources. My goal is to learn from the process of these projects, broadening my understanding of open-source collaboration while facilitating growth and advancement for others.**
